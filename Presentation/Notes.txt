@@ -1,0 +1,10 @@
+Variables
+
+One of the features that came with ES6 is the addition of let and const, which can be used for variable declaration.
+
+    1. var --> Scope is global. can be used anywhere in the program
+                can be redeclared and update. 
+    2. let --> scope in not global. only within the funtion
+                can be updated only not redeclared
+    3. const --> block scoped (within the fucniton like in let)
+                cann't be update nor re declared          
